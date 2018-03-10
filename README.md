@@ -1,6 +1,6 @@
 # Interesting and recommended books
 
-Below is a highly opinionated list of books that should be useful to any software developer, there is a distinctly Java slant because that is the language that I know best and still prefer to develop in.
+_Below is a highly opinionated list of books that should be useful to any software developer, there is a distinctly Java slant because that is the language that I know best and still prefer to develop in._
 
 ## Some obvious choices
 
