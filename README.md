@@ -19,6 +19,10 @@ It seems a bit pointless to include some very obvious choices, the below should 
 * SQL CookBook
 * Release It
 
+# Recent Reads
+
+* Designing Data Intensive Applications - Martin Kleppmann
+
 # References
 
 * Unix in a Nutshell or 
