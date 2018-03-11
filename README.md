@@ -23,7 +23,8 @@ It seems a bit pointless to include some very obvious choices, the below should 
 * [Release It - Michael Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?s=books&ie=UTF8&qid=1520753584&sr=1-1&keywords=release+it&dpID=41zOc0WXjzL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [The Phoenix project - Gene Kim](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=K7NY9T0WAY09TP1TPW6K)
 * [Make Your Bed - William H McRaven](https://www.amazon.co.uk/Make-Your-Bed-things-change-ebook/dp/B0714M8P9Y/ref=sr_1_1?s=books&ie=UTF8&qid=1520754828&sr=1-1&keywords=make+your+bed)
-...Setting good habits saves you time and reduces stress.
+
+   Setting good habits saves you time and reduces stress.
 
 Tools and techniques
 
