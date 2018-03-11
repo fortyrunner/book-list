@@ -14,10 +14,11 @@ It seems a bit pointless to include some very obvious choices, the below should 
 
 * [Clean Code - Bob Martin](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_3?ie=UTF8&qid=1520752628&sr=8-3&keywords=effective+java+3rd+edition&dpID=51bPR2V9fBL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [Code Complete - Steve McConnell](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=C8G2D3RHKE0VH5DKWKBP)
-* Enterprise Integration patterns - Gregor Hohpe
-* SQL for Smarties - Joe Celko
-* SQL CookBook
-* Release It
+* [Enterprise Integration patterns - Gregor Hohpe](https://www.amazon.co.uk/Enterprise-Integration-Patterns-Designing-Addison-Wesley/dp/0321200683/ref=sr_1_3?s=books&ie=UTF8&qid=1520753396&sr=1-3&keywords=gregor+hohpe&dpID=51eqtvacK7L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [SQL for Smarties - Joe Celko](https://www.amazon.co.uk/Joe-Celkos-SQL-Smarties-Programming/dp/0128007613/ref=sr_1_1?s=books&ie=UTF8&qid=1520753436&sr=1-1&keywords=sql+for+smarties&dpID=418DAlD7WPL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [SQL CookBook - Anthony Molinaro](https://www.amazon.co.uk/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763/ref=sr_1_1?s=books&ie=UTF8&qid=1520753467&sr=1-1&keywords=sql+cookbook&dpID=516Q77SFBAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [SQL Anti Patterns - Bill Karwin](https://www.amazon.co.uk/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557/ref=sr_1_1?s=books&ie=UTF8&qid=1520753520&sr=1-1&keywords=sql+antipatterns&dpID=41w1oa0YarL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [Release It - Michael Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?s=books&ie=UTF8&qid=1520753584&sr=1-1&keywords=release+it&dpID=41zOc0WXjzL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
 # Recent Reads
 
@@ -29,23 +30,24 @@ It seems a bit pointless to include some very obvious choices, the below should 
 _Being able to support your stuff is as important as writing it in the first place_
 
 * [Site reliability Engineering - Betsey Beyer et al](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=1NG23VV3799J2SG0NXSA)
-* [Production Ready Microservices by Susan Fowler](https://www.amazon.co.uk/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=VTHJJC4K8FFKE2XP2G6Y)
+* [Production Ready Microservices - Susan Fowler](https://www.amazon.co.uk/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=VTHJJC4K8FFKE2XP2G6Y)
 
 # References
 
-* Unix in a Nutshell or 
-* Unix Power Tools - Tim O'reilly and others
-* Classic Shell Scripting
-* Windows Sysinternals Administrators Reference - Mark Russinovitch
+* [Unix in a Nutshell - Arnold Robbins](https://www.amazon.co.uk/Unix-Nutshell-Desktop-Reference-Solaris-ebook/dp/B0043D2DL4/ref=sr_1_2?s=books&ie=UTF8&qid=1520753620&sr=1-2&keywords=unix+in+a+nutshell) or 
+* [Unix Power Tools - Shelley Powers and others](https://www.amazon.co.uk/Unix-Power-Tools-Shelley-Powers-ebook/dp/B0043EWUT8/ref=sr_1_4?s=books&ie=UTF8&qid=1520753664&sr=1-4&keywords=unix+power+tools&dpID=51gxYqERHYL&preST=_SY445_QL70_&dpSrc=srch)
+* [Classic Shell Scripting - Arnold Robbins](https://www.amazon.co.uk/Classic-Shell-Scripting-Hidden-Commands-ebook/dp/B0043GXMPW/ref=sr_1_1?s=books&ie=UTF8&qid=1520753776&sr=1-1&keywords=classic+shell+scripting)
+* [Troubleshooting with Windows Sysinternals tools - Mark Russinovitch](https://www.amazon.co.uk/Troubleshooting-Windows-Sysinternals-Tools-Russinovich/dp/0735684448/ref=sr_1_1?s=books&ie=UTF8&qid=1520753811&sr=1-1&keywords=mark+russinovich&dpID=514kDriqzhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
 # Some fun stuff
 
-* Automate the boring stuff in Python - Sweigart
+* [Automate the boring stuff in Python - Sweigart](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?s=books&ie=UTF8&qid=1520753868&sr=1-1&keywords=automate+the+boring+stuff+with+python&dpID=517XL4pO6jL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
 # Oldies but Goodies
 
 _It is a constant surprise to younger developers that the old guard managed to solve the same problems as they did some 30 or 40 years ago_
 
-* The Practice of Programming - Kernighan & Pike
+* [The Practice of Programming - Kernighan & Pike](https://www.amazon.co.uk/Practice-Programming-Professional-Computing/dp/020161586X/ref=sr_1_1?s=books&ie=UTF8&qid=1520753894&sr=1-1&keywords=the+practice+of+programming)
 * [The Pragmatic Programmer - Hunt & Thomas](https://www.amazon.co.uk/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X/ref=pd_bxgy_14_img_3?_encoding=UTF8&psc=1&refRID=XN1A5912TVNNCRWY37MK)
 * [Programming Pearls - Jon Bentley](https://www.amazon.co.uk/Programming-Pearls-Joe-Bentley/dp/8177588583/ref=pd_sim_14_13?_encoding=UTF8&psc=1&refRID=FJ6KNS67T8XGSAXW75ZT)
+* [Algorithms in a Nutsehll](https://www.amazon.co.uk/Algorithms-Nutshell-Desktop-Quick-Reference/dp/1491948922/ref=sr_1_1?ie=UTF8&qid=1520753933&sr=8-1&keywords=algorithms+in+a+nutshell&dpID=51BKMjaGF4L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
