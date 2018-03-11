@@ -26,15 +26,19 @@ It seems a bit pointless to include some very obvious choices, the below should 
 * [The Phoenix project - Gene Kim](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=K7NY9T0WAY09TP1TPW6K)
 * [Make Your Bed - William H McRaven](https://www.amazon.co.uk/Make-Your-Bed-things-change-ebook/dp/B0714M8P9Y/ref=sr_1_1?s=books&ie=UTF8&qid=1520754828&sr=1-1&keywords=make+your+bed)
 
-   Setting good habits saves you time and reduces stress.
+   _Setting good habits saves you time and reduces stress._
 
 # Tools and techniques
 
 _Choosing the right tool can save you days or months or work._
 
 * [Apache Camel in Action - Claus Ibsen](https://www.amazon.co.uk/Camel-Action-Second-Claus-Ibsen/dp/1617292931/ref=sr_1_1?s=books&ie=UTF8&qid=1520754532&sr=1-1&keywords=camel+in+action&dpID=51XIT-UyRIL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+   _Apache Camel is one of those tools that saves you time on routine Enterprise developments. Want to watch a directory for a file, filter it, insert into a database and send the results to a JMX queue? Camel can do that in a few lines of easy to read code._
 * [Apache Camel Developer's Cookbook - Scott Cranton](https://www.amazon.co.uk/Developers-Cookbook-Integration-Accessible-Recipes/dp/1782170308/ref=pd_sim_14_5?_encoding=UTF8&psc=1&refRID=Q21FR1783E6X3XCEXF2J)
 * [Analyzing Business Data with Excel - Gerald Knight](https://www.amazon.co.uk/Analyzing-Business-Excel-Gerald-Knight/dp/0596100736/ref=sr_1_sc_2?s=books&ie=UTF8&qid=1520754698&sr=1-2-spell&keywords=analyzing+bysiness+data+with+excel)
+
+   _Excel is a wonderful tool for analysing data. OK, you can do the same thing in Python or SQL, but Excel is so easy to use and so easy to distribute to other people._
 
 # Recent Reads
 
