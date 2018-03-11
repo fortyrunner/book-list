@@ -21,6 +21,17 @@ It seems a bit pointless to include some very obvious choices, the below should 
 * [SQL CookBook - Anthony Molinaro](https://www.amazon.co.uk/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763/ref=sr_1_1?s=books&ie=UTF8&qid=1520753467&sr=1-1&keywords=sql+cookbook&dpID=516Q77SFBAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [SQL Anti Patterns - Bill Karwin](https://www.amazon.co.uk/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557/ref=sr_1_1?s=books&ie=UTF8&qid=1520753520&sr=1-1&keywords=sql+antipatterns&dpID=41w1oa0YarL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [Release It - Michael Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?s=books&ie=UTF8&qid=1520753584&sr=1-1&keywords=release+it&dpID=41zOc0WXjzL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [The Phoenix project - Gene Kim](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=K7NY9T0WAY09TP1TPW6K)
+* [Make Your Bed - William H McRaven](https://www.amazon.co.uk/Make-Your-Bed-things-change-ebook/dp/B0714M8P9Y/ref=sr_1_1?s=books&ie=UTF8&qid=1520754828&sr=1-1&keywords=make+your+bed)
+** An unsual choice maybe, but setting good habits saves you time and reduces stress.
+
+Tools and techniques
+
+_Choosing the right tool can save you days or months or work._
+
+* [Apache Camel in Action - Claus Ibsen](https://www.amazon.co.uk/Camel-Action-Second-Claus-Ibsen/dp/1617292931/ref=sr_1_1?s=books&ie=UTF8&qid=1520754532&sr=1-1&keywords=camel+in+action&dpID=51XIT-UyRIL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [Apache Camel Developer's Cookbook - Scott Cranton](https://www.amazon.co.uk/Developers-Cookbook-Integration-Accessible-Recipes/dp/1782170308/ref=pd_sim_14_5?_encoding=UTF8&psc=1&refRID=Q21FR1783E6X3XCEXF2J)
+* [Analyzing Business Data with Excel - Gerald Knight](https://www.amazon.co.uk/Analyzing-Business-Excel-Gerald-Knight/dp/0596100736/ref=sr_1_sc_2?s=books&ie=UTF8&qid=1520754698&sr=1-2-spell&keywords=analyzing+bysiness+data+with+excel)
 
 # Recent Reads
 
