@@ -1,6 +1,6 @@
 # Interesting and recommended books
 
-_Below is a highly opinionated list of books that should be useful to any software developer, there is a distinctly Java slant because that is the language that I know best and still prefer to develop in._
+_Below is a highly opinionated list of books that should be useful to any software developer. There is a distinctly Java slant to this list because that is the language that I know best and still prefer to develop in._
 
 _As well as a main language such as Java, C, Go or C#, you should have a good knowledge of a scripting language such as Python or Powershell. You should also have a good knowledge of command line utilities such as bash. Being able to use grep, cut, sort, sed, and awk has helped me every single day for the past 20 years._
 
@@ -9,6 +9,7 @@ _As well as a main language such as Java, C, Go or C#, you should have a good kn
 It seems a bit pointless to include some very obvious choices, the below should be on every Java developers bookshelf.
 
 * [Effective Java - Joshua Bloch](https://www.amazon.co.uk/s/ref=nb_sb_ss_c_1_26?url=search-alias%3Daps&field-keywords=effective+java+3rd+edition&sprefix=effective+java+3rd+edition%2Caps%2C127&crid=2NRK2LLWA1T7Z)
+   This is the standard by which all other Java books are measured. I've owned all 3 Editions and refer to them all the time.
 * [Java Concurrency in Practice - Brian Goetz](https://www.amazon.co.uk/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=X5Z0WH8KDBP6VG5W5T2X)
 * [Refactoring - Martin Fowler](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=XN1A5912TVNNCRWY37MK)
 
