@@ -45,6 +45,10 @@ _Being able to support your stuff is as important as writing it in the first pla
 
 * [Site Reliability Engineering - Betsey Beyer et al](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=1NG23VV3799J2SG0NXSA)
 * [Production Ready Microservices - Susan Fowler](https://www.amazon.co.uk/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=VTHJJC4K8FFKE2XP2G6Y)
+* [Java Performance - Charlie Hunt](https://www.amazon.co.uk/Java-Performance-Addison-Wesley-Charlie-Hunt/dp/0137142528/ref=sr_1_2?s=books&ie=UTF8&qid=1520756293&sr=1-2&dpID=41CkZkiulFL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+* [Java Performance Companion](https://www.amazon.co.uk/Java-Performance-Companion-Charlie-Hunt/dp/0133796825/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=D31Y7JVN2ZVG2BXEJC3G)
+
+   
 
 # References
 
