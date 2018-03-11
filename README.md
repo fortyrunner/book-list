@@ -17,13 +17,23 @@ It seems a bit pointless to include some very obvious choices, the below should 
 # Best Practices
 
 * [Clean Code - Bob Martin](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_3?ie=UTF8&qid=1520752628&sr=8-3&keywords=effective+java+3rd+edition&dpID=51bPR2V9fBL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+   A bible of best practice for new and experience developers a like.
 * [Code Complete - Steve McConnell](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=C8G2D3RHKE0VH5DKWKBP)
+
+   Possibly showing its age now, but still a very good and very relevant read. This book was the first of its kind, a book that talked about best practice outside academia and I devoured it when it came out.
 * [Enterprise Integration patterns - Gregor Hohpe](https://www.amazon.co.uk/Enterprise-Integration-Patterns-Designing-Addison-Wesley/dp/0321200683/ref=sr_1_3?s=books&ie=UTF8&qid=1520753396&sr=1-3&keywords=gregor+hohpe&dpID=51eqtvacK7L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+   When you read this book and the the Martin Fowler Refactoring book and the Uncle Bob books, you will think 'Oh, that's obvious, we have been doing that for years!'. The value of the book is that pretty much everything you need to now about ETL is documented in this book and given a name. It's a hugely important book and the basis for many tools such as Camel, Spring Integrattion, Storm etc. 
 * [SQL for Smarties - Joe Celko](https://www.amazon.co.uk/Joe-Celkos-SQL-Smarties-Programming/dp/0128007613/ref=sr_1_1?s=books&ie=UTF8&qid=1520753436&sr=1-1&keywords=sql+for+smarties&dpID=418DAlD7WPL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+   I have a really old copy of this book that is still relevant.
 * [SQL CookBook - Anthony Molinaro](https://www.amazon.co.uk/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763/ref=sr_1_1?s=books&ie=UTF8&qid=1520753467&sr=1-1&keywords=sql+cookbook&dpID=516Q77SFBAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [SQL Anti Patterns - Bill Karwin](https://www.amazon.co.uk/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557/ref=sr_1_1?s=books&ie=UTF8&qid=1520753520&sr=1-1&keywords=sql+antipatterns&dpID=41w1oa0YarL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [Release It - Michael Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?s=books&ie=UTF8&qid=1520753584&sr=1-1&keywords=release+it&dpID=41zOc0WXjzL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [The Phoenix project - Gene Kim](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=K7NY9T0WAY09TP1TPW6K)
+
+   This is a novel about a project that goes wrong and how it is brought back on track. It's a great read.
 * [Make Your Bed - William H McRaven](https://www.amazon.co.uk/Make-Your-Bed-things-change-ebook/dp/B0714M8P9Y/ref=sr_1_1?s=books&ie=UTF8&qid=1520754828&sr=1-1&keywords=make+your+bed)
 
    _Setting good habits saves you time and reduces stress._
@@ -59,10 +69,18 @@ _Being able to support your stuff is as important as writing it in the first pla
 # References
 
 * [Systems Performance: Enterprise and the Cloud - Brendan Gregg](https://www.amazon.co.uk/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/ref=sr_1_1?ie=UTF8&qid=1520756172&sr=8-1&keywords=brendan+gregg&dpID=61siOL9Bm8L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+   Explains how stuff works at a deep level. Fascinating
 * [Unix in a Nutshell - Arnold Robbins](https://www.amazon.co.uk/Unix-Nutshell-Desktop-Reference-Solaris-ebook/dp/B0043D2DL4/ref=sr_1_2?s=books&ie=UTF8&qid=1520753620&sr=1-2&keywords=unix+in+a+nutshell) or 
+
+   I never really got on with man, this book is still a useful reference even though there are many online resources.
 * [Unix Power Tools - Shelley Powers and others](https://www.amazon.co.uk/Unix-Power-Tools-Shelley-Powers-ebook/dp/B0043EWUT8/ref=sr_1_4?s=books&ie=UTF8&qid=1520753664&sr=1-4&keywords=unix+power+tools&dpID=51gxYqERHYL&preST=_SY445_QL70_&dpSrc=srch)
+
+   A physically intimidating book but a fascinating reference book. Everything you ever needed to become a command line ninja.
 * [Classic Shell Scripting - Arnold Robbins](https://www.amazon.co.uk/Classic-Shell-Scripting-Hidden-Commands-ebook/dp/B0043GXMPW/ref=sr_1_1?s=books&ie=UTF8&qid=1520753776&sr=1-1&keywords=classic+shell+scripting)
 * [Troubleshooting with Windows Sysinternals tools - Mark Russinovitch](https://www.amazon.co.uk/Troubleshooting-Windows-Sysinternals-Tools-Russinovich/dp/0735684448/ref=sr_1_1?s=books&ie=UTF8&qid=1520753811&sr=1-1&keywords=mark+russinovich&dpID=514kDriqzhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+   Got a problem with Windows performance or a system level bug - Sysinternals may well be the answer.
 
 # Some fun stuff
 
