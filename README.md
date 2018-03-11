@@ -4,7 +4,7 @@ _Below is a highly opinionated list of books that should be useful to any softwa
 
 _As well as a main language such as Java, C, Go or C#, you should have a good knowledge of a scripting language such as Python or Powershell. You should also have a good knowledge of command line utilities such as bash. Being able to use grep, cut, sort, sed, and awk has helped me every single day for the past 20 years._
 
-## Some obvious choices
+# Some obvious choices
 
 It seems a bit pointless to include some very obvious choices, the below should be on every Java developers bookshelf.
 
@@ -26,7 +26,7 @@ It seems a bit pointless to include some very obvious choices, the below should 
 
    Setting good habits saves you time and reduces stress.
 
-Tools and techniques
+# Tools and techniques
 
 _Choosing the right tool can save you days or months or work._
 
