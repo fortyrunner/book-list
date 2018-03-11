@@ -48,6 +48,7 @@ _Being able to support your stuff is as important as writing it in the first pla
 
 # References
 
+* [Systems Performance: Enterprise and the Cloud - Brendan Gregg](https://www.amazon.co.uk/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/ref=sr_1_1?ie=UTF8&qid=1520756172&sr=8-1&keywords=brendan+gregg&dpID=61siOL9Bm8L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 * [Unix in a Nutshell - Arnold Robbins](https://www.amazon.co.uk/Unix-Nutshell-Desktop-Reference-Solaris-ebook/dp/B0043D2DL4/ref=sr_1_2?s=books&ie=UTF8&qid=1520753620&sr=1-2&keywords=unix+in+a+nutshell) or 
 * [Unix Power Tools - Shelley Powers and others](https://www.amazon.co.uk/Unix-Power-Tools-Shelley-Powers-ebook/dp/B0043EWUT8/ref=sr_1_4?s=books&ie=UTF8&qid=1520753664&sr=1-4&keywords=unix+power+tools&dpID=51gxYqERHYL&preST=_SY445_QL70_&dpSrc=srch)
 * [Classic Shell Scripting - Arnold Robbins](https://www.amazon.co.uk/Classic-Shell-Scripting-Hidden-Commands-ebook/dp/B0043GXMPW/ref=sr_1_1?s=books&ie=UTF8&qid=1520753776&sr=1-1&keywords=classic+shell+scripting)
