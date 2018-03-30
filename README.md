@@ -38,7 +38,7 @@ Whilst it may seem a bit pointless to include some very obvious choices, I've do
 
   This is a novelised form of a project that goes wrong and how it is corrected. It's a wonderfully easy read and at no time will you feel as if you are being preached to.
 
-* [The Art of Agile Development - James Shore] - (https://www.amazon.co.uk/Art-Agile-Development-James-Shore/dp/0596527675)
+* [The Art of Agile Development - James Shore](https://www.amazon.co.uk/Art-Agile-Development-James-Shore/dp/0596527675)
 
    I've found this to be the best single reference on Agile (with a big A) and agile with a small a. A nice reference that you can pick up, open any page and find something useful.
 * [Make Your Bed - William H McRaven](https://www.amazon.co.uk/Make-Your-Bed-things-change-ebook/dp/B0714M8P9Y/ref=sr_1_1?s=books&ie=UTF8&qid=1520754828&sr=1-1&keywords=make+your+bed)
