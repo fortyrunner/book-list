@@ -129,6 +129,8 @@ _It is a constant surprise to younger developers that the old guard managed to s
 * [Programming Pearls - Jon Bentley](https://www.amazon.co.uk/Programming-Pearls-Joe-Bentley/dp/8177588583/ref=pd_sim_14_13?_encoding=UTF8&psc=1&refRID=FJ6KNS67T8XGSAXW75ZT)
 
   I like to think of this as doing more with less. The book is pretty hardcore in places and will really make you think.
- * [Algorithms in a Nutsehll](https://www.amazon.co.uk/Algorithms-Nutshell-Desktop-Quick-Reference/dp/1491948922/ref=sr_1_1?ie=UTF8&qid=1520753933&sr=8-1&keywords=algorithms+in+a+nutshell&dpID=51BKMjaGF4L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
+ * [Algorithms in a Nutshell](https://www.amazon.co.uk/Algorithms-Nutshell-Desktop-Quick-Reference/dp/1491948922/ref=sr_1_1?ie=UTF8&qid=1520753933&sr=8-1&keywords=algorithms+in+a+nutshell&dpID=51BKMjaGF4L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 
    The diagrams in this book are some of the best I have ever seen, they bring algorithms to life.
+   
+* [The Mythical Man Month by Fred Brooks](https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?hvadid=80264380745889&hvbmt=be&hvdev=c&hvqmt=e&keywords=fred+brooks&qid=1563456922&s=gateway&sr=8-1)   
