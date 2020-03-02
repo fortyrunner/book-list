@@ -77,8 +77,8 @@ _Choosing the right tool can save you days or months of work._
 
 * [Building Microservices - Sam Newman](https://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358/ref=pd_sim_14_15?_encoding=UTF8&psc=1&refRID=FJ6KNS67T8XGSAXW75ZT)
 
-I'm not 100% convinced on the move to micro-services unless you have an outstanding engineering team backing you up. You may well need a lot more development resource (disk-space, build boxes) etc. You will need a set of engineers/developers who all subscribe to the same ethos w.r.t documentation, interface definition etc. My experience is that those things are harder to achieve that one might imagine. 
-What happens when one engineer decides that this service really needs to be written in Go rather than Java? On the face of of it, that's the best tool for the job, but what happens when that developer moves on? Are you prepared for the lack of homogeneity? What happens when another one wants Scala or Python or C++? If you have one code base you can check it for unit test coverage, lint checks etc a lot easier.
+   I'm not 100% convinced on the move to micro-services unless you have an outstanding engineering team backing you up. You may well need a lot more development resource (disk-space, build boxes) etc. You will need a set of engineers/developers who all subscribe to the same ethos w.r.t documentation, interface definition etc. My experience is that those things are harder to achieve that one might imagine. 
+   What happens when one engineer decides that this service really needs to be written in Go rather than Java? On the face of of it, that's the best tool for the job, but that developer will move on one day? Are you prepared for the lack of homogeneity? What happens when another engineer wants Scala or Python or C++? If you have one code base you can check it for unit test coverage, lint checks etc a lot easier.
 
 # How will you support your stuff?
 
