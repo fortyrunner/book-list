@@ -77,13 +77,16 @@ _Choosing the right tool can save you days or months of work._
 
 * [Building Microservices - Sam Newman](https://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358/ref=pd_sim_14_15?_encoding=UTF8&psc=1&refRID=FJ6KNS67T8XGSAXW75ZT)
 
+I'm not 100% convinced on the move to micro-services unless you have an outstanding engineering team backing you up. You may well need a lot more development resource (disk-space, build boxes) etc. You will need a set of engineers/developers who all subscribe to the same ethos w.r.t documentation, interface definition etc. My experience is that those things are harder to achieve that one might imagine. 
+What happens when one engineer decides that this service really needs to be written in Go rather than Java? On the face of of it, that's the best tool for the job, but what happens when that developer moves on? Are you prepared for the lack of homogeneity? What happens when another one wants Scala or Python or C++? If you have one code base you can check it for unit test coverage, lint checks etc a lot easier.
+
 # How will you support your stuff?
 
 _Being able to support your stuff is as important as writing it in the first place_
 
 * [Site Reliability Engineering - Betsey Beyer et al](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=1NG23VV3799J2SG0NXSA)
 
-  I have to confess that I don't find this an easy read. It seems a bit too verbose and the kindle version has a slightly odd format. The core content is very good though and I may buy the paper book, that may be easier to read.
+  I have to confess that I don't find this an easy read. It seems a bit too verbose and the kindle version has a slightly odd format. The core content is very good though and I might buy the paper book, that should be easier to read.
 
 * [Production Ready Microservices - Susan Fowler](https://www.amazon.co.uk/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=VTHJJC4K8FFKE2XP2G6Y)
 * [Java Performance - Charlie Hunt](https://www.amazon.co.uk/Java-Performance-Addison-Wesley-Charlie-Hunt/dp/0137142528/ref=sr_1_2?s=books&ie=UTF8&qid=1520756293&sr=1-2&dpID=41CkZkiulFL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
