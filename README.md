@@ -62,7 +62,7 @@ _Choosing the right tool can save you days or months of work._
 
 * [Apache Camel in Action - Claus Ibsen](https://www.amazon.co.uk/Camel-Action-Second-Claus-Ibsen/dp/1617292931/ref=sr_1_1?s=books&ie=UTF8&qid=1520754532&sr=1-1&keywords=camel+in+action&dpID=51XIT-UyRIL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
-   _Apache Camel is one of those tools that saves you time on routine Enterprise developments. Want to watch a directory for a file, filter it, insert into a database and send the results to a JMX queue? 
+   _Apache Camel is one of those tools that saves you time on routine Enterprise developments. Want to watch a directory for a file, filter it, insert into a database and send the results to a JMS queue? 
    Camel can do that in a few lines of easy to read code._
 * [Apache Camel Developer's Cookbook - Scott Cranton](https://www.amazon.co.uk/Developers-Cookbook-Integration-Accessible-Recipes/dp/1782170308/ref=pd_sim_14_5?_encoding=UTF8&psc=1&refRID=Q21FR1783E6X3XCEXF2J)
 * [Analyzing Business Data with Excel - Gerald Knight](https://www.amazon.co.uk/Analyzing-Business-Excel-Gerald-Knight/dp/0596100736/ref=sr_1_sc_2?s=books&ie=UTF8&qid=1520754698&sr=1-2-spell&keywords=analyzing+bysiness+data+with+excel)
